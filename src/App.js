@@ -14,7 +14,6 @@ class App extends Component {
             { value: 'İstanbul', id: 1 },
             { value: 'Ankara', id: 2 },
             { value: 'İzmir', id: 3 },
-            { value: 'Bursa', id: 4 }
           ]}
         /> 
 

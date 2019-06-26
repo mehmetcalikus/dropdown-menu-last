@@ -81,12 +81,7 @@ class SelectBox extends Component {
 
                                 ]}
                                 
-                                bursa={[
-                                    {value: "a", id:1},
-                                    {value: "b", id:2},
-                                    {value: "c", id:3},
-                                    {value: "d", id:4}
-                                ]}
+
                             />
                         </div>
                     </div>
